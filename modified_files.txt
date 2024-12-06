@@ -1,0 +1,50 @@
+/var/www/html/snipeit/app/Http/Controllers/Accessories/AccessoryCheckoutController.php
+/var/www/html/snipeit/app/Http/Controllers/Components/ComponentCheckoutController.php
+snipeit/app/Http/Controllers/Consumables/ConsumableCheckoutController.php
+/var/www/html/snipeit/app/Http/Controllers/Api/AccessoriesController.php
+/var/www/html/snipeit/app/Http/Controllers/Api/AssetsController.php
+/var/www/html/snipeit/app/Http/Controllers/Api/ComponentsController.php
+/var/www/html/snipeit/app/Http/Controllers/Api/ConsumablesController.php
+/var/www/html/snipeit/app/Http/Controllers/Api/LicensesController.php
+/var/www/html/snipeit/app/Http/Controllers/ViewAssetsController.php
+/var/www/html/snipeit/app/Http/Controllers/WaitListController.php  -- New File
+/var/www/html/snipeit/app/Http/Controllers/Assets/AssetCheckoutController.php
+/var/www/html/snipeit/app/Http/Controllers/AccessoryRequestController.php
+/var/www/html/snipeit/app/Http/Controllers/AssetRequestController.php
+/var/www/html/snipeit/app/Http/Controllers/ComponentRequestController.php -- New File
+/var/www/html/snipeit/app/Http/Controllers/ConsumableRequestController.php -- New File
+/var/www/html/snipeit/app/Http/Controllers/LicenseRequestController.php -- New File
+/var/www/html/snipeit/app/Http/Controllers/ProfileController.php
+/var/www/html/snipeit/app/Http/Controllers/ViewAssetsController.php
+/var/www/html/snipeit/app/Http/Transformers/AccessoriesTransformer.php
+/var/www/html/snipeit/app/Http/Transformers/ComponentsTransformer.php
+/var/www/html/snipeit/app/Http/Transformers/ConsumablesTransformer.php
+/var/www/html/snipeit/app/Http/Transformers/LicensesTransformer.php
+/var/www/html/snipeit/app/Models/Accessory.php
+/var/www/html/snipeit/app/Models/Asset.php
+/var/www/html/snipeit/app/Models/CheckoutRequest.php
+/var/www/html/snipeit/app/Models/Component.php
+/var/www/html/snipeit/app/Models/Consumable.php
+/var/www/html/snipeit/app/Models/License.php
+/var/www/html/snipeit/app/Models/Requestable.php
+/var/www/html/snipeit/app/Models/WaitList.php
+/var/www/html/snipeit/app/Policies/AccessoryPolicy.php
+/var/www/html/snipeit/app/Policies/ComponentPolicy.php
+/var/www/html/snipeit/app/Policies/ConsumablePolicy.php
+/var/www/html/snipeit/app/Policies/LicensePolicy.php
+/var/www/html/snipeit/config/permissions.php
+/var/www/html/snipeit/database/migrations
+/var/www/html/snipeit/resources/views/accessories/edit.blade.php
+/var/www/html/snipeit/resources/views/account/requestable-assets.blade.php
+/var/www/html/snipeit/resources/views/account/requested.blade.php
+/var/www/html/snipeit/resources/views/components/edit.blade.php
+/var/www/html/snipeit/resources/views/consumables/edit.blade.php
+/var/www/html/snipeit/resources/views/hardware/requested.blade.php
+/var/www/html/snipeit/resources/views/licenses/edit.blade.php
+/var/www/html/snipeit/resources/views/partials/bootstrap-table.blade.php
+/var/www/html/snipeit/routes/api.php
+/var/www/html/snipeit/routes/web/accessories.php
+/var/www/html/snipeit/routes/web/components.php
+/var/www/html/snipeit/routes/web/consumables.php
+/var/www/html/snipeit/routes/web/hardware.php
+/var/www/html/snipeit/routes/web/licenses.php
